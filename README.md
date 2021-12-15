@@ -1,6 +1,6 @@
 # The Game of Life
 
-<p align="center"><img src=https://github.com/connorjchen/ratecollegeclubs/blob/master/frontend/public/logo512.png width=250 /></p>
+<p align="center"><img src=https://github.com/connorjchen/game-of-life/blob/main/assets/life_logo.JPG width=250 /></p>
 
 ### Description
 
@@ -9,7 +9,6 @@
 ### Screenshots
 
 <p align="center">
-  <img src="https://github.com/connorjchen/ratecollegeclubs/blob/master/frontend/public/images/github_assets/Capture1.JPG" width="800" />
-  <img src="https://github.com/connorjchen/ratecollegeclubs/blob/master/frontend/public/images/github_assets/Capture2.JPG" width="800" />
-  <img src="https://github.com/connorjchen/ratecollegeclubs/blob/master/frontend/public/images/github_assets/Capture3.JPG" width="800" />
+  <img src="https://github.com/connorjchen/game-of-life/blob/main/assets/board_pic.JPG" width="800" />
+  <img src="https://github.com/connorjchen/game-of-life/blob/main/assets/colorblind_pic.JPG" width="800" />
 </p>
