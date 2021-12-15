@@ -11,8 +11,7 @@ Created for the Cornell University CS 3110 (Data Structures and Functional Progr
 - Eshita Sangani (ens57)
 
 ### Description
-  "The Game of Life, also known simply as Life, is a board game originally created in 1860 by Milton Bradley, as The Checkered Game of Life. The Game of Life was America's first popular parlour game. The game simulates a person's travels through his or her life, from college to retirement, with jobs, marriage, and possible children along the way." (Wikipedia).
-  This terminal-based version of the Game of Life was created throughout the semester in OCaml. Some key focuses were good code quality, proper code documentation, and test-driven development. This project includes a fully-functional end-to-end version of the Game of Life. It even includes long term investments, spin to win, lawsuits, and more. At the start of the game, 2-6 players will be prompted for their name and other options, such as college, long term investments, graphics, and even a colorblind option. Enjoy!
+"The Game of Life, also known simply as Life, is a board game originally created in 1860 by Milton Bradley, as The Checkered Game of Life. The Game of Life was America's first popular parlour game. The game simulates a person's travels through his or her life, from college to retirement, with jobs, marriage, and possible children along the way." (Wikipedia). This terminal-based version of the Game of Life was created throughout the semester in OCaml. Some key focuses were good code quality, proper code documentation, and test-driven development. This project includes a fully-functional end-to-end version of the Game of Life. It even includes long term investments, spin to win, lawsuits, and more. At the start of the game, 2-6 players will be prompted for their name and other options, such as college, long term investments, graphics, and even a colorblind option. Enjoy!
   
 ### How to Install (Working on MacOS and Ubuntu)
 Necessary Installations:
