@@ -1,6 +1,6 @@
 # The Game of Life
 
-<p align="center"><img src=https://github.com/connorjchen/game-of-life/blob/main/assets/life_logo.JPG width=800 /></p>
+<p align="center"><img src=https://github.com/connorjchen/game-of-life/blob/main/assets/life_logo.JPG width=600 /></p>
 
 ### Description
 
